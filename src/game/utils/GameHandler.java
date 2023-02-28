@@ -15,9 +15,9 @@ public class GameHandler {
 
     private Display display;
 
-    public static final int SCREEN_WIDTH = 640;
-    public static final int SCREEN_HEIGHT = 640;
-    private final String GAME_TITLE = "School Appropriate Game Title";
+    public static final int SCREEN_WIDTH = 1408;
+    public static final int SCREEN_HEIGHT = 1024;
+    private final String GAME_TITLE = "Hello Kitty";
 
     private State gameState;
 

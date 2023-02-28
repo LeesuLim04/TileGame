@@ -6,6 +6,7 @@ public class WorldTile {
     // on screen tile render size
     public static int defaultWorldTileWidth = 64, defaultWorldTileHeight = 64;
 
+
     protected BufferedImage texture;
 
     protected int id;
